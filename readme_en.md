@@ -1,4 +1,4 @@
-__📘This mprogram is dedicated for matrix summing and substracting.📘__
+__📘This program is dedicated for matrix summing and substracting.📘__
 ---
 It was developed for as my educational practice project with C# language.
 ---
