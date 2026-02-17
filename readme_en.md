@@ -24,4 +24,4 @@ the format of input-file **MUST** be like that:
 ```
 
 Don't forget to save the file after formatting, also.  
-input/output files are saved and stored in main folder.
+input/output files are saved and stored in the main folder.
